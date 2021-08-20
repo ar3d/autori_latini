@@ -10,7 +10,7 @@ body {
   background: linear-gradient(to top right, rgb(218, 221, 227), rgb(119, 124, 133));
 }
 
-.popup-me {
+.popup-me_1 {
 	background-color: rgba(0, 0, 0, 0.4);
         border-radius: 4px;
 	padding: 10px;
@@ -24,7 +24,7 @@ body {
 	cursor: pointer;
 }
 
-.popup-me_1 {
+.popup-me_2 {
 	background-color: rgba(0, 0, 0, 0.4);
         border-radius: 4px;
 	padding: 6px;
@@ -38,7 +38,21 @@ body {
 	cursor: pointer;
 }
 
-.popup-me_2 {
+.popup-me_3 {
+	background-color: rgba(0, 0, 0, 0.4);
+        border-radius: 4px;
+	padding: 6px;
+	width: 128px;
+	margin: auto;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.8);
+	font-size: 14px;
+	font-family: Futura, Helvetica Neue, sans-serif;
+        font-weight: bold;
+	cursor: pointer;
+}
+
+.popup-me_3 {
 	background-color: rgba(0, 0, 0, 0.4);
         border-radius: 4px;
 	padding: 6px;
