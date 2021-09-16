@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_3").click(function(){
 
-		pop_init_3( "Marco Valerio Marziale nacque ad Augusta Bilbilis, l'odierna Calatayud, in Spagna, il 1º marzo 38 o 41 d.C. dove morì nel 104 d.C. Fu poeta romano ed è ritenuto il più importante epigrammista in lingua latina." );
+		pop_init_3( "Marcus Valerius Martialis nacque ad Augusta Bilbilis, l'odierna Calatayud, in Spagna, il 1º marzo del 38 o 41 d.C. dove morì nel 104 d.C. Fu poeta romano ed è ritenuto il più importante epigrammista in lingua latina." );
 
 	});
 

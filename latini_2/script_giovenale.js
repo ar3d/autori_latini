@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_4").click(function(){
 
-		pop_init_4( "Decimo Giunio Giovenale nacque a Castrocielo (FR) tra il 50 e il 60 d.C. e morì  Roma dopo il 127 d.C. Fu poeta e retore romano." );
+		pop_init_4( "Decimus Iunius Iuvenalis nacque a Castrocielo (FR) tra il 50 e il 60 d.C. e morì  Roma dopo il 127 d.C. Fu poeta e retore romano." );
 
 	});
 

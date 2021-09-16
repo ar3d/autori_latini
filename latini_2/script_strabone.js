@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_1").click(function(){
 
-		pop_init_1( "Strabone nacque ad Amasea, nell'odierna Turchia, prima del 60 a.C dove probabilmente morì tra il 21 e il 24 d.C. Fu geografo, storico e filosofo greco." );
+		pop_init_1( "Στράβων nacque ad Amasea, nell'odierna Turchia, prima del 60 a.C dove probabilmente morì tra il 21 e il 24 d.C. Fu geografo, storico e filosofo greco." );
 
 	});
 

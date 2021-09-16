@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_1").click(function(){
 
-		pop_init_1( "Marco Porcio Catone, chiamato anche Catone il Censore (Cato Censor), Catone il Sapiente (Cato Sapiens), Catone l'Antico (Cato Priscus), Catone il Vecchio (Cato Maior), nacque a Tusculum nella zona dei Colli Romani nel 234 a.C. circa e morì a Roma, 149 a.C. Fu Politico, generale e scrittore romano." );
+		pop_init_1( "Marcus Porcius Cato, chiamato anche Catone il Censore (Cato Censor), Catone il Sapiente (Cato Sapiens), Catone l'Antico (Cato Priscus), Catone il Vecchio (Cato Maior), nacque a Tusculum, nella zona dei Colli Romani, nel 234 a.C. circa e morì a Roma nel 149 a.C. Fu Politico, generale e scrittore romano." );
 
 	});
 

@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_3").click(function(){
 
-		pop_init_3( "Marco Terenzio Varrone nacque a Rieti nel 116 a.C. e morì a Roma nel 27 a.C. Fu letterato, grammatico, militare e agronomo romano." );
+		pop_init_3( "Marcus Terentius Varro nacque a Rieti nel 116 a.C. e morì a Roma nel 27 a.C. Fu letterato, grammatico, militare e agronomo romano." );
 
 	});
 

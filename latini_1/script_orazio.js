@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_4").click(function(){
 
-		pop_init_4( "Quinto Orazio Flacco, noto più semplicemente come Orazio, nacque a Venosa (PZ) l'8 dicembre 65 a.C. e morì Roma il 27 novembre 8 a.C. Fu un Poeta romano." );
+		pop_init_4( "Quintus Horatius Flaccus, noto più semplicemente come Orazio, nacque a Venosa (PZ) l'8 dicembre 65 a.C. e morì Roma il 27 novembre 8 a.C. Fu un poeta romano." );
 
 	});
 

@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 	$(".popup-me_2").click(function(){
 
-		pop_init_2( "Marco Tullio Cicerone nacque ad Arpino (FR) il 3 gennaio 106 a.C. e morì a Formia (LT) il 7 dicembre 43 a.C. Fu avvocato, politico, scrittore, oratore e filosofo romano." );
+		pop_init_2( "Marcus Tullius Cicero nacque ad Arpino (FR) il 3 gennaio 106 a.C. e morì a Formia (LT) il 7 dicembre 43 a.C. Fu avvocato, politico, scrittore, oratore e filosofo romano." );
 
 	});
 
